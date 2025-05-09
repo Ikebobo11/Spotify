@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#fname, #lname, #date {
+    display: block;
+    margin-top: 8px;
+}
+
+.submit {
+    padding: 1rem 1.5rem;
+    background-color: red;
+}
